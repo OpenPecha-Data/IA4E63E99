@@ -1,5 +1,7 @@
 id: P007025
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W23818
   title: ངེས་དོན་གསང་བ་ཆེན་པོའི་དྲི་བ་དྲི་ལན་འཇིགས་མེད་སེངྒེ་འི་ང་རོ་སོགས
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 146
       base_file: v001.txt
-ebook_metadata:
-  title: ངེས་དོན་གསང་བ་ཆེན་པོའི་དྲི་བ་དྲི་ལན་འཇིགས་མེད་སེངྒེ་འི་ང་རོ་སོགས
-  author: ''
-  sku: P007025
-  cover: cover.jpg
-  layers:
-  - pagination
